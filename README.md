@@ -1,5 +1,3 @@
-# CentreLead-Backend
-
 # Centre Lead Tracker Backend
 
 ## Project Overview
